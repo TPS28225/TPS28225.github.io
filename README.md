@@ -25,7 +25,7 @@
 
 | 标题 | 简介 |
 |------|------|
-| [LLVM DAGCombiner 深度解析](blog/llvm-dagcombiner.md) | 深入分析 DAGCombiner 的作用、结构与典型优化流程 |
+| [LLVM DAGCombiner 深度解析](backend_handler.md) | 深入分析 DAGCombiner 的作用、结构与典型优化流程 |
 | [SelectionDAG 指令选择流程梳理](blog/selectiondag.md) | 从 IR 到 MachineInstr 的过程详解 |
 | [LLVM MatchTable 工作机制](blog/matchtable.md) | LLVMPatternMatch 模式匹配机制剖析 |
 
@@ -60,5 +60,5 @@
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTA2OTAwNjJdfQ==
+eyJoaXN0b3J5IjpbLTEwMzc1NDI1MzFdfQ==
 -->
